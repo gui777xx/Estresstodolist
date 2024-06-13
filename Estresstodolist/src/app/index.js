@@ -7,7 +7,7 @@ export default function Welcome() {
     <View style={styles.container}>
     <View style={styles.Imagecontainer}>
       <Image
-      source={require("../assets/leão marinho.jpg")}
+      source={require("../assets/fundo.jpg")}
       style={styles.image} 
       />
     </View>

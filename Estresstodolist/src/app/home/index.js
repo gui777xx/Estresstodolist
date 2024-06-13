@@ -3,7 +3,7 @@ import { StyleSheet, Text, View, SafeAreaView, ImageBackground, TextInput, Touch
 import { StatusBar } from 'expo-status-bar';
 import { Ionicons } from '@expo/vector-icons';
 import { styles } from './style';
-import ItemList from '../../components/ItemList';
+import ItemList from '../../components/Itemlist';
 import AsyncStorage from '@react-native-async-storage/async-storage';
 
 
